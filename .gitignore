@@ -1,0 +1,17 @@
+# Ejecutables compilados
+*.exe
+*.out
+*.o
+*.obj
+
+# Archivos de depuración / compilación
+*.pdb
+*.ilk
+*.dSYM/
+
+# Entradas/salidas de prueba locales (opcional)
+# *.in
+# *.txt
+
+# Configuración del editor
+.vscode/
