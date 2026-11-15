@@ -6,7 +6,7 @@
 
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Práctica-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![Resueltos](https://img.shields.io/badge/Resueltos-8-success?style=for-the-badge)
+![Resueltos](https://img.shields.io/badge/Resueltos-11-success?style=for-the-badge)
 
 </div>
 
@@ -21,8 +21,8 @@ El objetivo es practicar de forma constante, mejorar en algoritmos y estructuras
 
 | Dificultad | Resueltos |
 |:----------:|:---------:|
-| 🟢 800     | 8         |
-| **Total**  | **8**     |
+| 🟢 800     | 11        |
+| **Total**  | **11**    |
 
 ## 📚 Problemas resueltos
 
@@ -36,6 +36,9 @@ El objetivo es practicar de forma constante, mejorar en algoritmos y estructuras
 | 6 | [158A - Next Round](https://codeforces.com/problemset/problem/158/A) | 800 | Implementación | [📄](nextround.cpp) |
 | 7 | [112A - Petya and Strings](https://codeforces.com/problemset/problem/112/A) | 800 | Strings | [📄](petya.cpp) |
 | 8 | [263A - Beautiful Matrix](https://codeforces.com/problemset/problem/263/A) | 800 | Implementación | [📄](matrix.cpp) |
+| 9 | [236A - Boy or Girl](https://codeforces.com/problemset/problem/236/A) | 800 | Strings | [📄](boyandgirl.cpp) |
+| 10 | [339A - Helpful Maths](https://codeforces.com/problemset/problem/339/A) | 800 | Strings | [📄](helpfulMaths.cpp) |
+| 11 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 800 | Strings | [📄](wordCapitalization.cpp) |
 
 ## ⚙️ Cómo compilar y ejecutar
 
