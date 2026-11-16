@@ -6,7 +6,7 @@
 
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Práctica-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![Resueltos](https://img.shields.io/badge/Resueltos-13-success?style=for-the-badge)
+![Resueltos](https://img.shields.io/badge/Resueltos-14-success?style=for-the-badge)
 
 </div>
 
@@ -21,8 +21,8 @@ El objetivo es practicar de forma constante, mejorar en algoritmos y estructuras
 
 | Dificultad | Resueltos |
 |:----------:|:---------:|
-| 🟢 800     | 13        |
-| **Total**  | **13**    |
+| 🟢 800     | 14        |
+| **Total**  | **14**    |
 
 ## 📚 Problemas resueltos
 
@@ -41,6 +41,7 @@ El objetivo es practicar de forma constante, mejorar en algoritmos y estructuras
 | 11 | [281A - Word Capitalization](https://codeforces.com/problemset/problem/281/A) | 800 | Strings | [📄](wordCapitalization.cpp) |
 | 12 | [791A - Bear and Big Brother](https://codeforces.com/problemset/problem/791/A) | 800 | Implementación | [📄](BearandBigBrother.cpp) |
 | 13 | [617A - Elephant](https://codeforces.com/problemset/problem/617/A) | 800 | Matemáticas | [📄](Elephant.cpp) |
+| 14 | [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A) | 800 | Strings | [📄](StonesOnTheTable.cpp) |
 
 ## ⚙️ Cómo compilar y ejecutar
 
