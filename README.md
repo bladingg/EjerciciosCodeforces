@@ -6,7 +6,7 @@
 
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Práctica-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![Resueltos](https://img.shields.io/badge/Resueltos-16-success?style=for-the-badge)
+![Resueltos](https://img.shields.io/badge/Resueltos-17-success?style=for-the-badge)
 
 </div>
 
@@ -21,8 +21,8 @@ El objetivo es practicar de forma constante, mejorar en algoritmos y estructuras
 
 | Dificultad | Resueltos |
 |:----------:|:---------:|
-| 🟢 800     | 16        |
-| **Total**  | **16**    |
+| 🟢 800     | 17        |
+| **Total**  | **17**    |
 
 ## 📚 Problemas resueltos
 
@@ -44,6 +44,7 @@ El objetivo es practicar de forma constante, mejorar en algoritmos y estructuras
 | 14 | [266A - Stones on the Table](https://codeforces.com/problemset/problem/266/A) | 800 | Strings | [📄](StonesOnTheTable.cpp) |
 | 15 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | Matemáticas | [📄](SoldierandBananas.cpp) |
 | 16 | [59A - Word](https://codeforces.com/problemset/problem/59/A) | 800 | Strings | [📄](word.cpp) |
+| 17 | [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | Implementación | [📄](wrongSubtraction.cpp) |
 
 ## ⚙️ Cómo compilar y ejecutar
 
