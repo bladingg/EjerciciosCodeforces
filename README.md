@@ -6,7 +6,7 @@
 
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Práctica-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![Resueltos](https://img.shields.io/badge/Resueltos-17-success?style=for-the-badge)
+![Resueltos](https://img.shields.io/badge/Resueltos-18-success?style=for-the-badge)
 
 </div>
 
@@ -21,8 +21,8 @@ El objetivo es practicar de forma constante, mejorar en algoritmos y estructuras
 
 | Dificultad | Resueltos |
 |:----------:|:---------:|
-| 🟢 800     | 17        |
-| **Total**  | **17**    |
+| 🟢 800     | 18        |
+| **Total**  | **18**    |
 
 ## 📚 Problemas resueltos
 
@@ -45,6 +45,7 @@ El objetivo es practicar de forma constante, mejorar en algoritmos y estructuras
 | 15 | [546A - Soldier and Bananas](https://codeforces.com/problemset/problem/546/A) | 800 | Matemáticas | [📄](SoldierandBananas.cpp) |
 | 16 | [59A - Word](https://codeforces.com/problemset/problem/59/A) | 800 | Strings | [📄](word.cpp) |
 | 17 | [977A - Wrong Subtraction](https://codeforces.com/problemset/problem/977/A) | 800 | Implementación | [📄](wrongSubtraction.cpp) |
+| 18 | [110A - Nearly Lucky Number](https://codeforces.com/problemset/problem/110/A) | 800 | Strings | [📄](nearLuckyNumber.cpp) |
 
 ## ⚙️ Cómo compilar y ejecutar
 
